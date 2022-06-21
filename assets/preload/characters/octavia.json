@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Octavia idle"
+		},
+		{
+			"offsets": [
+				-23,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Octavia left"
+		},
+		{
+			"offsets": [
+				-16,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Octavia down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-242,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Octavia UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-257,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Octavia right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Octavia MISS LEFTNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Octavia MISSDOWNNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-249,
+				18
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Octavia MISSUPNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-263,
+				-11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Octavia MISSRIGHTNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Octavia HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-65,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Octavia shaking",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Octavia death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Octavia death confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				3
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Octavia dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/octavia",
+	"position": [
+		-30,
+		160
+	],
+	"healthicon": "octavia",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		95,
+		235
+	],
+	"camera_position": [
+		-220,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
