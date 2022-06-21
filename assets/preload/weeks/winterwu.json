@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Winter Wrap Up",
+			"octavia",
+			[
+				160,
+				95,
+				235
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "winterwu",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Winter Wrap Up Orchestral",
+	"weekName": "Winter Wrap Up Orchestral",
+	"freeplayColor": [
+		160,
+		95,
+		235
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
